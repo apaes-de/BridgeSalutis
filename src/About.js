@@ -7,7 +7,7 @@ function About() {
       <h2>Sobre Nós</h2>
        
       <p>
-      A <strong>Bridge Salutis</strong> nasceu alicerçada na vontade de trazer algo novo e inovador para o setor da saúde em Portugal, oferecendo a <strong>empresas e pequenos negócios de Enfermagema</strong> a capacidade de crescerem e de se desenvolverem de forma sólida e competitiva. 
+      A <strong>Bridge Salutis</strong> nasceu alicerçada na vontade de trazer algo novo e inovador para o setor da saúde em Portugal, oferecendo a <strong>empresas e pequenos negócios de Enfermagem</strong> a capacidade de crescerem e de se desenvolverem de forma sólida e competitiva. 
       </p>
       <p>
       A <strong>nossa missão</strong> é ser a ponte, o elo de conexão entre empresas inovadoras e talentosas e o vasto mercado nacional e internacional. Permitimos que essas empresas alcancem o seu potencial máximo, oferecendo soluções avançadas que contribuam significativamente para a melhoria da saúde em todo o país.
