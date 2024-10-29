@@ -32,15 +32,15 @@ function Services() {
       </div>
       <div className="service">
         <h2>Consultoria Tecno-Financeira</h2>
-        <p>Apoiamos a gestão financeira e operacional eficientes, com recurso a FinOps e captação de financiamento, redes de investidores</p>
+        <p>Apoiamos a gestão financeira e operacional eficientes, com recurso a FinOps e captação de financiamento e investidores</p>
       </div>
       <div className="service">
-        <h2>Suporte Especializado a StartUps ou Pequenas Empresas</h2>
-        <p>Ajudamos empresas e pequenos negócios na área de Enfermagem a atrair investidores e a estabelecerem-se no mercado</p>
+        <h2>Suporte Especializado a StartUps, Pequenas Empresas e Empreendedores</h2>
+        <p>Ajudamos empresas e pequenos negócios na área da Saúde a atrair investidores e a estabelecerem-se no mercado</p>
       </div>
       <div className="service">
         <h2>Oportunidades para Investidores</h2>
-        <p>Interligamos investidores a Startups e pequenas empresas promissoras na área da Enfermagem para criarem oportunidades de crescimento e expansão</p>
+        <p>Interligamos investidores a pequenas empresas, Startups promissoras na área da Saúde para criarem oportunidades de crescimento e expansão</p>
       </div>
     </section>
   );
